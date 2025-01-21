@@ -1433,7 +1433,7 @@ async def check_bot_stats(client, message):
     except:
         pass
     photo = START_IMAGE_URL
-    caption = "**⏤͟͞ADITYA PLAYER STATS ༗**"
+    caption = "**BUGGU PLAYER STATS ༗**"
     buttons = InlineKeyboardMarkup(
         [
             [
