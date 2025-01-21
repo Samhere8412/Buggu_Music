@@ -42,7 +42,7 @@
     },
     "START_IMAGE_URL": {
       "description": "An image url for your bot.",
-      "value": "https://graph.org/file/918101d0ad6b1207e6201.png",
+      "value": "https://graph.org/file/307e9ae4672c7b09071de-d136b56f1438c3a225.jpg",
       "required": true
     }
   },
